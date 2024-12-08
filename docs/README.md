@@ -6,7 +6,7 @@ Welcome to my professional README! This serves as an overview of my skills, expe
 
 ## 🧑‍💻 About Me
 
-I am a **Software Engineer** with over **5.5 years of professional experience**, specializing in **Java backend development**, **microservices architecture**, and **distributed systems**. Passionate about creating scalable and maintainable software solutions, I enjoy mentoring teams, driving project success, and continuously learning about cutting-edge technologies.
+I am a **Senior Software Engineer** with over **5.5 years of professional experience**, specializing in **Java backend development**, **microservices architecture**, and **distributed systems**. Passionate about creating scalable and maintainable software solutions, I enjoy mentoring teams, driving project success, and continuously learning about cutting-edge technologies.
 
 - **Current Role**: Software Engineer at Brain Station 23 Ltd.
 - **Career Goal**: Becoming a **Solution Architect** with expertise in distributed systems and scalable applications.
@@ -46,7 +46,7 @@ I am a **Software Engineer** with over **5.5 years of professional experience**,
 
 ## 💼 Work Experience
 
-### **Software Engineer**
+### **Senior Software Engineer**
 **Brain Station 23 Ltd** (March 2022 – Present)
 - Developed core backend services for projects like **CityRemit**, **Binimoy (IDTP)**, **Pocket E-Wallet**, and **Bangla QR Payment**.
 - Architected and maintained microservices for remittance and payment platforms.
