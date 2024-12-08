@@ -2,7 +2,9 @@
 
 # Md. Mijanur Rahaman
 
-> **Software Engineer & Developer** | Building scalable solutions and driving team success
+> **Senior Software Engineer @ Brain Station 23**
+
+> **Fintech | Java | Distributed System | Backend | Microservices | DevOps**
 
 
 -  Proven ability to lead teams and deliver successful projects.
