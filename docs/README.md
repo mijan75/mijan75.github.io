@@ -8,7 +8,7 @@ Welcome to my professional README! This serves as an overview of my skills, expe
 
 I am a **Senior Software Engineer** with over **5.5 years of professional experience**, specializing in **Java backend development**, **microservices architecture**, and **distributed systems**. Passionate about creating scalable and maintainable software solutions, I enjoy mentoring teams, driving project success, and continuously learning about cutting-edge technologies.
 
-- **Current Role**: Software Engineer at Brain Station 23 Ltd.
+- **Current Role**: Senior Software Engineer at Brain Station 23 Ltd.
 - **Career Goal**: Becoming a **Solution Architect** with expertise in distributed systems and scalable applications.
 - **Professional Interests**: Microservices, DevOps, financial technology, and ethical hacking.
 
